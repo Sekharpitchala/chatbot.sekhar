@@ -37,26 +37,22 @@
 ## 💻 Installation
 
 ### 1. Clone the Repository:
-```bash
+
 git clone https://github.com/your-username/ecommerce-negotiate.git
 cd ecommerce-negotiate
-2. Create a Virtual Environment:
-bash
-Copy
-Edit
+
+## 2. Create a Virtual Environment:
+
 python -m venv venv
 source venv/bin/activate       # For Windows: venv\Scripts\activate
-3. Install Required Packages:
-bash
-Copy
-Edit
+
+## 3. Install Required Packages:
+
 pip install -r requirements.txt
-4. Set Up the Database:
+
+## 4. Set Up the Database:
 Open your MySQL terminal and run the following:
 
-sql
-Copy
-Edit
 CREATE DATABASE negotiate;
 USE negotiate;
 
@@ -85,44 +81,35 @@ CREATE TABLE reviews (
     review TEXT,
     sentiment VARCHAR(10)
 );
-5. Add Dataset Files:
+
+## 5. Add Dataset Files:
+
 Place the following files inside the Dataset/ directory:
-
 ecommerce.csv
-
 model.csv
-
 Make sure they are formatted correctly for product and price data.
 
-6. Run the Application:
-bash
-Copy
-Edit
+## 6. Run the Application:
 python app.py
 Visit: http://127.0.0.1:5000
 
-📋 Usage Instructions
-Register/Login to access the application.
+## 📋 Usage Instructions :
 
-Browse Products and view available items.
+ 1 Register/Login to access the application.
+ 2 Browse Products and view available items.
+ 3 Use Text or Voice Chatbot to negotiate prices.
+     Use keywords like first price and final price during negotiation.
+ 4 Purchase products and view orders in View Orders section.
+ 5 Post Reviews and view their sentiment prediction.
 
-Use Text or Voice Chatbot to negotiate prices.
-
-Use keywords like first price and final price during negotiation.
-
-Purchase products and view orders in View Orders section.
-
-Post Reviews and view their sentiment prediction.
-
-👨‍💻 Contributing
+## 👨‍💻 Contributing
 Interested in contributing? Fork the repo and submit a pull request with:
+    1 Clear commit messages
+    2 Brief description of your changes
 
-Clear commit messages
-
-Brief description of your changes
-##📜 License
+## 📜 License
 This project is licensed under the BVCEC.EDU.IN License.
 
-##📬 Contact
-Developer:Pitchala Sekhar
+## 📬 Contact
+Developer: Pitchala Sekhar
 Email: sekharpitchala2003@gmail.com
