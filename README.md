@@ -91,7 +91,7 @@ Make sure they are formatted correctly for product and price data.
 
 ## 6. Run the Application:
 python app.py
-Visit: http://127.0.0.1:5000
+## The application will be available at :  http://127.0.0.1:5000/index
 
 ## 📋 Usage Instructions :
 
