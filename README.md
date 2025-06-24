@@ -120,10 +120,9 @@ Interested in contributing? Fork the repo and submit a pull request with:
 Clear commit messages
 
 Brief description of your changes
-
-📜 License
+##📜 License
 This project is licensed under the BVCEC.EDU.IN License.
 
-📬 Contact
+##📬 Contact
 Developer:Pitchala Sekhar
 Email: sekharpitchala2003@gmail.com
