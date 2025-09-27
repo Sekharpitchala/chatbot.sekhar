@@ -1,4 +1,4 @@
-# 🛍️ E-commerce Negotiation text and voice commands
+# 🛍️  Price Negotiation chatbot with  text and voice on E-commerce web site.
  💬🛒 An AI-powered chatbot that lets users negotiate product prices on an e-commerce site using text and voice commands. Built with Flask, Machine Learning models, and voice interaction features for a more human-like shopping experience. An AI-powered chatbot that lets users negotiate product prices on an e-commerce site using text and voice commands. Built with Flask, Machine Learning models, and voice interaction features for a more human-like shopping experience.
 💬🛒 An AI-powered chatbot that lets users negotiate product prices on an e-commerce site using text and voice commands. Built with Flask, Machine Learning models, and voice interaction features for a more human-like shopping experience. This is a Flask-based web application that allows users to **browse products**, **negotiate prices** using a chatbot (via **text or voice**), and complete their purchases. It also includes features for **user authentication**, **order management**, and **sentiment-based product review analysis**.
 
